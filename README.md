@@ -257,4 +257,4 @@ mvn spring-boot:run
 
 ## 👨‍💻 Author
 **Darshan Manavadariya**  
-📧 manavadariyadarshan@example.com
+📧 manavadariyadarshan@gmail.com
